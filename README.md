@@ -47,9 +47,6 @@
  
   **9) always tested before its uploaded and you can find known issues in changelogs**
 
-
-##  [Additional Information](https://github.com/claudemods/ApexCKGE/blob/main/AdditionalInformation.md)
-
 <h1>All New Updates Will Be .img.xz Only</h1>
 
 ### Install Instructions Currently As My BtrfsRsync Installer Wasnt Installed in the .img clones
