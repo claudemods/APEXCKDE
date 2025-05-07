@@ -47,18 +47,11 @@
  
   **9) always tested before its uploaded and you can find known issues in changelogs**
 
-<h1>All New Updates Will Be .img.xz Only</h1>
+<h1>All New Updates Will Be .raw.xz Only</h1>
 
 ### Install Instructions Currently As My BtrfsRsync Installer Wasnt Installed in the .img clones
 <div align="center">
-download one of my provided .img.xz files extract the .img.xz use https://etcher.balena.io/ to burn the .img to usb
- <div align="center">
-boot the usb
-  <div align="center">
-download btrfsrsync from browser with link https://github.com/claudemods/APEXCKHE/tree/main/Installer 
-<div align="center">
-use btrfsrsync to install the live environments contents
-
+currently im changing my cs2a to use .raw.xz and not .img.xz then ill update
 
 
 
