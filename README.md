@@ -51,7 +51,7 @@
 
 ### Install Instructions Currently As My BtrfsRsync Installer Wasnt Installed in the .img clones
 <div align="center">
-currently im changing my cs2a to use .raw.xz and not .img.xz then ill update
+new 2.2gb kde .img coming with to install the .img.xz
 
 
 
