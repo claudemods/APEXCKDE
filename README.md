@@ -62,7 +62,8 @@ new 2.2gb kde .img coming with to install the .img.xz
 
 <h1>New Update Coming Full Edtions Only!</h1>
 
-![Screenshot_20250520_190239](https://github.com/user-attachments/assets/384dad47-341c-4675-9920-42409a72a4a0)
+![Screenshot_20250520_190542](https://github.com/user-attachments/assets/02284580-bebd-4aaa-bd7b-1ae7a7fff55f)
+
 
 
 
