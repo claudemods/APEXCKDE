@@ -6,7 +6,7 @@
 <div align="center">
 
  
-##  [All .img.xz Created With CS2A](https://github.com/claudemods/CS2A)
+##  [All .img.xz Created With Btrfs System Cloner](https://github.com/claudemods/btrfssystemcloner)
 
 <div align="center">
 
@@ -29,23 +29,25 @@
 
 
 ## Key Features! 🛡️📦 
-  **1) custom taskbar similar to windows**
+  **1)  btrfs and brave browser**
 
-  **2) windows ntfs drive support**
+  **2) custom taskbar similar to windows**
 
-  **3) added support for usbs in virt-manager**
+  **4) windows ntfs drive support**
+
+  **5) added support for usbs in virt-manager**
   
-  **4) custom desktop photo**
+  **6) custom desktop photo**
  
-  **5) custom dolphin service menus**
+  **7) custom dolphin service menus**
  
-  **6) latest system packages including kernel**
+  **8) latest system packages including kernel**
  
-  **7) custom set of applications tailored for gamers**
+  **9) custom set of applications tailored for gamers**
  
-  **8) custom system app to change the desktop photo or taskbar colour and more!**
+  **10) custom system app to change the desktop photo or taskbar colour and more!**
  
-  **9) always tested before its uploaded and you can find known issues in changelogs**
+  **11) always tested before its uploaded and you can find known issues in changelogs**
 
 <h1>All New Updates Will Be .raw.xz Only</h1>
 
@@ -53,6 +55,10 @@
 <div align="center">
 new 2.2gb kde .img coming with to install the .img.xz
 
+<h1>Default Ui</h1>
+
+
+![steamos](https://github.com/user-attachments/assets/733238af-a649-4e9b-9346-5d68fabee68c)
 
 
    <h1>CachyOS Welcome</h1>
