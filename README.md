@@ -49,11 +49,6 @@
  
   **11) always tested before its uploaded and you can find known issues in changelogs**
 
-<h1>All New Updates Will Be .raw.xz Only</h1>
-
-### Install Instructions Currently As My BtrfsRsync Installer Wasnt Installed in the .img clones
-<div align="center">
-new 2.2gb kde .img coming with to install the .img.xz
 
 <h1>Default Ui</h1>
 
