@@ -78,7 +78,8 @@
 
 <h1>Dolphin UI And Extras</h1>
 
-![Dolphin](https://github.com/user-attachments/assets/1d8a73e5-8360-4f02-902e-3690f4112f91)
+![Screenshot_20250520_195517](https://github.com/user-attachments/assets/def8be9f-abe2-4b9a-a593-d756b568f0a3)
+
 
 
 
