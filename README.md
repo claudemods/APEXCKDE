@@ -66,7 +66,7 @@ new 2.2gb kde .img coming with to install the .img.xz
 ![CachyOS Welcome](https://github.com/user-attachments/assets/eeaf8cf0-5e30-42d0-be12-4c3fe4edc960)
 
 
-<h1>New Update Coming Full Editions Only!</h1>
+<h1>New Update Coming Full Editions Only Here Is Desktop Ui!</h1>
 
 ![Screenshot_20250520_191220](https://github.com/user-attachments/assets/3fa23330-d4ab-44bf-8b9e-99c7c4691206)
 
@@ -76,7 +76,7 @@ new 2.2gb kde .img coming with to install the .img.xz
 
 
 
-<h1>Dolphin</h1>
+<h1>Dolphin UI And Extras</h1>
 
 ![Dolphin](https://github.com/user-attachments/assets/1d8a73e5-8360-4f02-902e-3690f4112f91)
 
