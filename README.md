@@ -60,13 +60,9 @@ new 2.2gb kde .img coming with to install the .img.xz
 ![CachyOS Welcome](https://github.com/user-attachments/assets/eeaf8cf0-5e30-42d0-be12-4c3fe4edc960)
 
 
+<h1>New Update Coming Full Edtions Only!</h1>
 
-
-Minimal StableChannel
-![Screenshot_20250505_220956](https://github.com/user-attachments/assets/80860c9e-ce60-4156-91f2-58d16f35f22c)
-![Screenshot_20250505_221051](https://github.com/user-attachments/assets/042a7b8d-50d2-4f32-87b6-7ed9648282d3)
-Full StableChannel
-![Screenshot_20250505_232633](https://github.com/user-attachments/assets/0d40937c-b7a3-49fd-84b3-c010f2c8e600)
+![Screenshot_20250520_190239](https://github.com/user-attachments/assets/384dad47-341c-4675-9920-42409a72a4a0)
 
 
 
