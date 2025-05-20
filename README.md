@@ -58,7 +58,8 @@
 
    <h1>CachyOS Welcome</h1>
    
-![CachyOS Welcome](https://github.com/user-attachments/assets/eeaf8cf0-5e30-42d0-be12-4c3fe4edc960)
+![Screenshot_20250520_192550](https://github.com/user-attachments/assets/556fab5e-c44c-4dcb-b707-f585acd94c5d)
+
 
 
 <h1>New Update Coming Full Editions Only Here Is Desktop Ui!</h1>
