@@ -67,7 +67,7 @@ Example dd command: sudo dd if=/home/apex/Downloads/backup_20250518.img of=/dev/
 </div>
 
 <div align="center">
-Login as root since my home files won't exist until you execute the .sh in /opt........ and reboot
+Login as usual
 </div>
 
 <div align="center">
