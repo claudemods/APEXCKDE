@@ -10,8 +10,6 @@
 
 
 
-<h1>New Update Coming Full Editions Only Here Is Desktop Ui!</h1>
-
 
 ![Screenshot_20250520_190542](https://github.com/user-attachments/assets/fd253f95-f0c1-4912-8fb2-26ff380e1840)
 
@@ -29,7 +27,6 @@
 ![Screenshot_20250520_195517](https://github.com/user-attachments/assets/def8be9f-abe2-4b9a-a593-d756b568f0a3)
 
 
-<h1>new update coming currently being backed up</h1>
 
 ![Screenshot_20250521_150648](https://github.com/user-attachments/assets/8c2add0b-bf05-4e15-9871-e7f7ccc2273c)
 
