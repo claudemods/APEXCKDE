@@ -50,7 +50,7 @@
   **11) always tested before its uploaded and you can find known issues in changelogs**
 
 
-## Installation Methods
+## Installation Methods upcoming v1.02
 
 new 16gb iso coming
 
