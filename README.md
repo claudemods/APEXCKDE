@@ -50,6 +50,10 @@
   **11) always tested before its uploaded and you can find known issues in changelogs**
 
 
+
+## built for amd devices i have a AMD Radeon RX 5700 XT And Lenovo Legion Go S i use this on
+
+
 ## Installation Methods upcoming v1.02
 
 new 17gb iso 
