@@ -13,7 +13,8 @@
 <h1>this is is a photo with it installed and setup 2 days after</h1>
 
 
-![Screenshot_20250607_152945_Gallery](https://github.com/user-attachments/assets/f6142918-87a7-4a92-b931-4c2a254a2bf3)
+![Screenshot_20250607_153636_Gallery](https://github.com/user-attachments/assets/9a1b53c0-2dc1-4cae-b877-3b07d677bb44)
+
 
 
 
