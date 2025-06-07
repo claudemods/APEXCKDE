@@ -52,7 +52,7 @@
 
 ## Installation Methods upcoming v1.02
 
-new 16gb iso 
+new 17gb iso 
 
 2 .imgs you can install find guide.txt and .imgs on desktop
 
