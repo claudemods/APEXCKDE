@@ -10,7 +10,7 @@
 
 
 
-this is is a photo with it installed and setup 2 days after install
+<h1>this is is a photo with it installed and setup 2 days after</h1>
 
 
 ![Screenshot_20250607_152945_Gallery](https://github.com/user-attachments/assets/f6142918-87a7-4a92-b931-4c2a254a2bf3)
